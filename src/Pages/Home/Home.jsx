@@ -1,10 +1,11 @@
+import HomeCarousel from "../../components/Homecarousel/HomeCarousel";
 
 
 
 const Home = () => {
     return (
         <div>
-            this is home prog
+           <HomeCarousel></HomeCarousel>
           
         </div>
     );
