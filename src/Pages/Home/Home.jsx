@@ -1,9 +1,11 @@
 
 
+
 const Home = () => {
     return (
         <div>
-            this is home pages
+            this is home prog
+          
         </div>
     );
 };

@@ -1,6 +1,6 @@
 
 import { createBrowserRouter } from 'react-router-dom';
-import MainLayout from '../Layout/MainLayout';
+import MainLayout from '../MainLayout/MainLayout';
 import Home from '../Pages/Home/Home';
 import Fashion from '../Pages/Fashion/Fashion';
 import Jewelery from '../Pages/Jewellery/Jewelery';
