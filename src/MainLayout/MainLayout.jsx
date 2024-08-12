@@ -6,9 +6,12 @@ const MainLayout = () => {
     return (
         <div>
             <Navbars></Navbars>
+            <div>
             <Outlet></Outlet>
+            </div>
         </div>
     );
 };
 
 export default MainLayout;
+

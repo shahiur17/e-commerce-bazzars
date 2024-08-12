@@ -1,14 +1,15 @@
-import HomeCarousel from "../../components/Homecarousel/HomeCarousel";
 
-
+import HomeCarousel from '../../components/Homecarousel/HomeCarousel';
+import HomeCard from '../../components/ProductHomecard/HomeCard';
 
 const Home = () => {
     return (
         <div>
-           <HomeCarousel></HomeCarousel>
-          
+            <HomeCarousel />
+            <HomeCard />
         </div>
     );
 };
 
 export default Home;
+

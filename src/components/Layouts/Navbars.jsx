@@ -53,8 +53,12 @@ const Navbars = () => {
             </ul>
           </div>
           <Link to="/home" className="btn btn-ghost text-xl">
-            <span className="text-red-500">EC</span>
-            <span className="text-blue-500">_BAZZAR</span>
+            <span className="text-red-500">E</span>
+            <span className="text-blue-500">C</span>
+            <span className="text-red-400">-BA</span>
+            <span className="text-black">ZZ</span>
+            <span className="text-orange-500">AR</span>
+            
           </Link>
         </div>
 
