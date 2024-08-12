@@ -1,363 +1,412 @@
 {
-    "fashion": [
-      {
-        "id": 1,
-        "name": "Summer Dress",
-        "brand": "Brand A",
-        "price": 49.99,
-        "details": "A light and breezy summer dress perfect for warm weather."
-      },
-      {
-        "id": 2,
-        "name": "Casual T-Shirt",
-        "brand": "Brand B",
-        "price": 19.99,
-        "details": "Comfortable and stylish T-shirt for everyday wear."
-      },
-      {
-        "id": 3,
-        "name": "Jeans",
-        "brand": "Brand C",
-        "price": 59.99,
-        "details": "Classic denim jeans with a modern fit."
-      },
-      {
-        "id": 4,
-        "name": "Leather Jacket",
-        "brand": "Brand D",
-        "price": 199.99,
-        "details": "High-quality leather jacket for a bold look."
-      },
-      {
-        "id": 5,
-        "name": "Evening Gown",
-        "brand": "Brand E",
-        "price": 299.99,
-        "details": "Elegant evening gown for formal occasions."
-      },
-      {
-        "id": 6,
-        "name": "Sporty Hoodie",
-        "brand": "Brand F",
-        "price": 39.99,
-        "details": "A comfortable hoodie for casual outings."
-      },
-      {
-        "id": 7,
-        "name": "Formal Shirt",
-        "brand": "Brand G",
-        "price": 29.99,
-        "details": "A crisp shirt suitable for formal events."
-      },
-      {
-        "id": 8,
-        "name": "Skirt",
-        "brand": "Brand H",
-        "price": 34.99,
-        "details": "A stylish skirt for a chic look."
-      },
-      {
-        "id": 9,
-        "name": "Blazer",
-        "brand": "Brand I",
-        "price": 89.99,
-        "details": "A classic blazer for professional attire."
-      },
-      {
-        "id": 10,
-        "name": "Tank Top",
-        "brand": "Brand J",
-        "price": 14.99,
-        "details": "Lightweight tank top for hot days."
-      }
-    ],
-    "shoes": [
-      {
-        "id": 11,
-        "name": "Running Shoes",
-        "brand": "Brand K",
-        "price": 79.99,
-        "details": "Comfortable running shoes for daily jogs."
-      },
-      {
-        "id": 12,
-        "name": "Leather Boots",
-        "brand": "Brand L",
-        "price": 129.99,
-        "details": "Durable leather boots for all terrains."
-      },
-      {
-        "id": 13,
-        "name": "High Heels",
-        "brand": "Brand M",
-        "price": 59.99,
-        "details": "Elegant high heels for formal events."
-      },
-      {
-        "id": 14,
-        "name": "Sandals",
-        "brand": "Brand N",
-        "price": 24.99,
-        "details": "Casual sandals for a laid-back look."
-      },
-      {
-        "id": 15,
-        "name": "Sneakers",
-        "brand": "Brand O",
-        "price": 89.99,
-        "details": "Stylish sneakers for everyday wear."
-      },
-      {
-        "id": 16,
-        "name": "Dress Shoes",
-        "brand": "Brand P",
-        "price": 99.99,
-        "details": "Formal dress shoes for business or events."
-      },
-      {
-        "id": 17,
-        "name": "Flip Flops",
-        "brand": "Brand Q",
-        "price": 14.99,
-        "details": "Easy-going flip-flops for the beach."
-      },
-      {
-        "id": 18,
-        "name": "Work Boots",
-        "brand": "Brand R",
-        "price": 119.99,
-        "details": "Sturdy work boots for tough environments."
-      },
-      {
-        "id": 19,
-        "name": "Loafers",
-        "brand": "Brand S",
-        "price": 69.99,
-        "details": "Casual loafers for a relaxed style."
-      },
-      {
-        "id": 20,
-        "name": "Slip-Ons",
-        "brand": "Brand T",
-        "price": 49.99,
-        "details": "Convenient slip-on shoes for quick outings."
-      }
-    ],
-    "watches": [
-      {
-        "id": 21,
-        "name": "Luxury Watch",
-        "brand": "Brand U",
-        "price": 499.99,
-        "details": "A premium watch with exquisite craftsmanship."
-      },
-      {
-        "id": 22,
-        "name": "Digital Sports Watch",
-        "brand": "Brand V",
-        "price": 59.99,
-        "details": "A rugged watch for outdoor activities."
-      },
-      {
-        "id": 23,
-        "name": "Smartwatch",
-        "brand": "Brand W",
-        "price": 199.99,
-        "details": "A smartwatch with fitness tracking features."
-      },
-      {
-        "id": 24,
-        "name": "Classic Analog Watch",
-        "brand": "Brand X",
-        "price": 89.99,
-        "details": "Timeless analog watch for everyday use."
-      },
-      {
-        "id": 25,
-        "name": "Diving Watch",
-        "brand": "Brand Y",
-        "price": 299.99,
-        "details": "A waterproof watch designed for divers."
-      },
-      {
-        "id": 26,
-        "name": "Chronograph Watch",
-        "brand": "Brand Z",
-        "price": 249.99,
-        "details": "A chronograph watch with a stopwatch feature."
-      },
-      {
-        "id": 27,
-        "name": "Fashion Watch",
-        "brand": "Brand AA",
-        "price": 69.99,
-        "details": "A stylish watch to complement your outfit."
-      },
-      {
-        "id": 28,
-        "name": "Luxury Gold Watch",
-        "brand": "Brand BB",
-        "price": 999.99,
-        "details": "A luxurious gold watch for special occasions."
-      },
-      {
-        "id": 29,
-        "name": "Pilot Watch",
-        "brand": "Brand CC",
-        "price": 279.99,
-        "details": "A watch designed for aviation enthusiasts."
-      },
-      {
-        "id": 30,
-        "name": "Skeleton Watch",
-        "brand": "Brand DD",
-        "price": 349.99,
-        "details": "A watch with a visible mechanism for a unique look."
-      }
-    ],
-    "electronics": [
-      {
-        "id": 31,
-        "name": "Smartphone",
-        "brand": "Brand EE",
-        "price": 699.99,
-        "details": "A high-end smartphone with the latest features."
-      },
-      {
-        "id": 32,
-        "name": "Laptop",
-        "brand": "Brand FF",
-        "price": 999.99,
-        "details": "A powerful laptop for work and play."
-      },
-      {
-        "id": 33,
-        "name": "Tablet",
-        "brand": "Brand GG",
-        "price": 499.99,
-        "details": "A versatile tablet for media consumption."
-      },
-      {
-        "id": 34,
-        "name": "Smart TV",
-        "brand": "Brand HH",
-        "price": 799.99,
-        "details": "A 4K Smart TV with built-in streaming apps."
-      },
-      {
-        "id": 35,
-        "name": "Wireless Earbuds",
-        "brand": "Brand II",
-        "price": 149.99,
-        "details": "High-quality wireless earbuds with noise cancellation."
-      },
-      {
-        "id": 36,
-        "name": "Bluetooth Speaker",
-        "brand": "Brand JJ",
-        "price": 129.99,
-        "details": "A portable Bluetooth speaker with excellent sound."
-      },
-      {
-        "id": 37,
-        "name": "Smartwatch",
-        "brand": "Brand KK",
-        "price": 199.99,
-        "details": "A smartwatch with health and fitness tracking."
-      },
-      {
-        "id": 38,
-        "name": "Gaming Console",
-        "brand": "Brand LL",
-        "price": 499.99,
-        "details": "The latest gaming console for immersive gaming."
-      },
-      {
-        "id": 39,
-        "name": "Digital Camera",
-        "brand": "Brand MM",
-        "price": 899.99,
-        "details": "A DSLR camera with high-resolution image capture."
-      },
-      {
-        "id": 40,
-        "name": "Drone",
-        "brand": "Brand NN",
-        "price": 399.99,
-        "details": "A drone with a built-in camera for aerial photography."
-      }
-    ],
-    "home_garden": [
-      {
-        "id": 41,
-        "name": "Lawn Mower",
-        "brand": "Brand OO",
-        "price": 299.99,
-        "details": "A powerful lawn mower for easy lawn maintenance."
-      },
-      {
-        "id": 42,
-        "name": "Grill",
-        "brand": "Brand PP",
-        "price": 249.99,
-        "details": "A high-quality grill for outdoor cooking."
-      },
-      {
-        "id": 43,
-        "name": "Patio Furniture Set",
-        "brand": "Brand QQ",
-        "price": 599.99,
-        "details": "A stylish patio furniture set for outdoor relaxation."
-      },
-      {
-        "id": 44,
-        "name": "Garden Tools Set",
-        "brand": "Brand RR",
-        "price": 79.99,
-        "details": "A complete garden tools set for gardening enthusiasts."
-      },
-      {
-        "id": 45,
-        "name": "Vacuum Cleaner",
-        "brand": "Brand SS",
-        "price": 199.99,
-        "details": "A powerful vacuum cleaner for home cleaning."
-      },
-      {
-        "id": 46,
-        "name": "Blender",
-        "brand": "Brand TT",
-        "price": 49.99,
-        "details": "A high-speed blender for smoothies and more."
-      },
-      {
-        "id": 47,
-        "name": "Coffee Maker",
-        "brand": "Brand UU",
-        "price": 89.99,
-        "details": "A premium coffee maker for fresh coffee every day."
-      },
-      {
-        "id": 48,
-        "name": "Air Purifier",
-        "brand": "Brand VV",
-        "price": 149.99,
-        "details": "An air purifier to keep your home air clean."
-      },
-      {
-        "id": 49,
-        "name": "LED Light Bulbs",
-        "brand": "Brand WW",
-        "price": 29.99,
-        "details": "Energy-efficient LED light bulbs for your home."
-      },
-      {
-        "id": 50,
-        "name": "Outdoor Fire Pit",
-        "brand": "Brand XX",
-        "price": 199.99,
-        "details": "A fire pit for cozy outdoor gatherings."
-      }
-    ]
-  }
-  
+  "fashion": [
+    {
+      "id": 1,
+      "name": "Summer Dress",
+      "brand": "Brand A",
+      "price": 49.99,
+      "details": "A light and breezy summer dress perfect for warm weather.",
+      "image": "https://i.postimg.cc/6qtHrvCq/women-deress-1.webp"
+    },
+    {
+      "id": 2,
+      "name": "Casual T-Shirt",
+      "brand": "Brand B",
+      "price": 19.99,
+      "details": "Comfortable and stylish T-shirt for everyday wear.",
+      "image": "https://i.postimg.cc/RhJcnCDh/women-tpos-2.webp"
+    },
+    {
+      "id": 3,
+      "name": "Jeans",
+      "brand": "Brand C",
+      "price": 59.99,
+      "details": "Classic denim jeans with a modern fit.",
+      "image": "https://i.postimg.cc/KYLjLkZd/men-tshart-3.webp"
+    },
+    {
+      "id": 4,
+      "name": "Leather Jacket",
+      "brand": "Brand D",
+      "price": 199.99,
+      "details": "High-quality leather jacket for a bold look.",
+      "image": "https://i.postimg.cc/NGThc6Nh/men-jacket-4.webp"
+    },
+    {
+      "id": 5,
+      "name": "Evening Gown",
+      "brand": "Brand E",
+      "price": 299.99,
+      "details": "Elegant evening gown for formal occasions.",
+      "image": "https://i.postimg.cc/zXCVVRG6/Women-s-Skirts-5.webp"
+    },
+    {
+      "id": 6,
+      "name": "Sporty Hoodie",
+      "brand": "Brand F",
+      "price": 39.99,
+      "details": "A comfortable hoodie for casual outings.",
+      "image": "https://i.postimg.cc/h4NHTggB/Men-s-Activewear-6.webp"
+    },
+    {
+      "id": 7,
+      "name": "Formal Shirt",
+      "brand": "Brand G",
+      "price": 29.99,
+      "details": "A crisp shirt suitable for formal events.",
+      "image": "https://i.postimg.cc/Ls4728kz/Casual-Shirts-7.webp"
+    },
+    {
+      "id": 8,
+      "name": "Skirt",
+      "brand": "Brand H",
+      "price": 34.99,
+      "details": "A stylish skirt for a chic look.",
+      "image": "https://i.postimg.cc/1tfjV7jX/Casual-Shirts8.webp"
+    },
+    {
+      "id": 9,
+      "name": "Blazer",
+      "brand": "Brand I",
+      "price": 89.99,
+      "details": "A classic blazer for professional attire.",
+      "image": "https://i.postimg.cc/T1bNCLGX/women-Blouses-9.webp"
+    },
+    {
+      "id": 10,
+      "name": "Tank Top",
+      "brand": "Brand J",
+      "price": 14.99,
+      "details": "Lightweight tank top for hot days.",
+      "image": "https://i.postimg.cc/dt8SCy42/JCREW-10.webp"
+    }
+  ],
+  "shoes": [
+    {
+      "id": 11,
+      "name": "Running Shoes",
+      "brand": "Brand K",
+      "price": 79.99,
+      "details": "Comfortable running shoes for daily jogs.",
+      "image": "https://i.postimg.cc/g00M1Bds/man-shous-1.webp"
+    },
+    {
+      "id": 12,
+      "name": "Leather Boots",
+      "brand": "Brand L",
+      "price": 129.99,
+      "details": "Durable leather boots for all terrains.",
+      "image": "https://i.postimg.cc/LXcNY9PQ/man-shous-2.webp"
+    },
+    {
+      "id": 13,
+      "name": "High Heels",
+      "brand": "Brand M",
+      "price": 59.99,
+      "details": "Elegant high heels for formal events.",
+      "image": "https://i.postimg.cc/P5XK8FLH/womwn-4.webp"
+    },
+    {
+      "id": 14,
+      "name": "Sandals",
+      "brand": "Brand N",
+      "price": 24.99,
+      "details": "Casual sandals for a laid-back look.",
+      "image": "https://i.postimg.cc/DzWrrVn9/wmen-5.webp"
+    },
+    {
+      "id": 15,
+      "name": "Sneakers",
+      "brand": "Brand O",
+      "price": 89.99,
+      "details": "Stylish sneakers for everyday wear.",
+      "image": "https://i.postimg.cc/W3g0yMDS/man-shous-3.webp"
+    },
+    {
+      "id": 16,
+      "name": "Dress Shoes",
+      "brand": "Brand P",
+      "price": 99.99,
+      "details": "Formal dress shoes for business or events.",
+      "image": "https://i.postimg.cc/kGCWPBKC/man-6.webp"
+    },
+    {
+      "id": 17,
+      "name": "Flip Flops",
+      "brand": "Brand Q",
+      "price": 14.99,
+      "details": "Easy-going flip-flops for the beach.",
+      "image": "https://i.postimg.cc/8P1LyfTB/man7.webp"
+    },
+    {
+      "id": 18,
+      "name": "Work Boots",
+      "brand": "Brand R",
+      "price": 119.99,
+      "details": "Sturdy work boots for tough environments.",
+      "image": "https://i.postimg.cc/YC0Y7cGv/woman-8.webp"
+    },
+    {
+      "id": 19,
+      "name": "Loafers",
+      "brand": "Brand S",
+      "price": 69.99,
+      "details": "Casual loafers for a relaxed style.",
+      "image": "https://i.postimg.cc/rmXr5Kh4/any-9.webp"
+    },
+    {
+      "id": 20,
+      "name": "Slip-Ons",
+      "brand": "Brand T",
+      "price": 49.99,
+      "details": "Convenient slip-on shoes for quick outings.",
+      "image": "https://i.postimg.cc/J0RHdSC4/man-10.webp"
+    }
+  ],
+  "watches": [
+    {
+      "id": 21,
+      "name": "Luxury Watch",
+      "brand": "Brand U",
+      "price": 499.99,
+      "details": "A premium watch with exquisite craftsmanship.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 22,
+      "name": "Digital Sports Watch",
+      "brand": "Brand V",
+      "price": 59.99,
+      "details": "A rugged watch for outdoor activities.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 23,
+      "name": "Smartwatch",
+      "brand": "Brand W",
+      "price": 199.99,
+      "details": "A smartwatch with fitness tracking features.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 24,
+      "name": "Classic Analog Watch",
+      "brand": "Brand X",
+      "price": 89.99,
+      "details": "Timeless analog watch for everyday use.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 25,
+      "name": "Diving Watch",
+      "brand": "Brand Y",
+      "price": 299.99,
+      "details": "A waterproof watch designed for divers.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 26,
+      "name": "Chronograph Watch",
+      "brand": "Brand Z",
+      "price": 249.99,
+      "details": "A chronograph watch with a stopwatch feature.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 27,
+      "name": "Fashion Watch",
+      "brand": "Brand AA",
+      "price": 69.99,
+      "details": "A stylish watch to complement your outfit.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 28,
+      "name": "Luxury Gold Watch",
+      "brand": "Brand BB",
+      "price": 999.99,
+      "details": "A luxurious gold watch for special occasions.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 29,
+      "name": "Pilot Watch",
+      "brand": "Brand CC",
+      "price": 279.99,
+      "details": "A watch designed for aviation enthusiasts.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 30,
+      "name": "Skeleton Watch",
+      "brand": "Brand DD",
+      "price": 349.99,
+      "details": "A watch with a visible mechanism for a unique look.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ],
+  "electronics": [
+    {
+      "id": 31,
+      "name": "Smartphone",
+      "brand": "Brand EE",
+      "price": 699.99,
+      "details": "A high-end smartphone with the latest features.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 32,
+      "name": "Laptop",
+      "brand": "Brand FF",
+      "price": 999.99,
+      "details": "A powerful laptop for work and play.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 33,
+      "name": "Tablet",
+      "brand": "Brand GG",
+      "price": 499.99,
+      "details": "A versatile tablet for media consumption.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 34,
+      "name": "Smart TV",
+      "brand": "Brand HH",
+      "price": 799.99,
+      "details": "A 4K Smart TV with built-in streaming apps.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 35,
+      "name": "Wireless Earbuds",
+      "brand": "Brand II",
+      "price": 149.99,
+      "details": "High-quality wireless earbuds with noise cancellation.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 36,
+      "name": "Bluetooth Speaker",
+      "brand": "Brand JJ",
+      "price": 79.99,
+      "details": "Portable Bluetooth speaker with rich sound.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 37,
+      "name": "Gaming Console",
+      "brand": "Brand KK",
+      "price": 399.99,
+      "details": "A next-gen gaming console with immersive graphics.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 38,
+      "name": "Smartwatch",
+      "brand": "Brand LL",
+      "price": 199.99,
+      "details": "A smartwatch with various health tracking features.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 39,
+      "name": "4K Action Camera",
+      "brand": "Brand MM",
+      "price": 299.99,
+      "details": "A rugged camera for capturing adventures in 4K.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 40,
+      "name": "Wireless Charger",
+      "brand": "Brand NN",
+      "price": 49.99,
+      "details": "Convenient wireless charger for your devices.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ],
+  "home_garden": [
+    {
+      "id": 41,
+      "name": "Lawn Mower",
+      "brand": "Brand OO",
+      "price": 299.99,
+      "details": "A powerful lawn mower for easy lawn maintenance.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 42,
+      "name": "Grill",
+      "brand": "Brand PP",
+      "price": 249.99,
+      "details": "A high-quality grill for outdoor cooking.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 43,
+      "name": "Patio Furniture Set",
+      "brand": "Brand QQ",
+      "price": 599.99,
+      "details": "A stylish patio furniture set for outdoor relaxation.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 44,
+      "name": "Garden Tools Set",
+      "brand": "Brand RR",
+      "price": 79.99,
+      "details": "A complete garden tools set for gardening enthusiasts.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 45,
+      "name": "Vacuum Cleaner",
+      "brand": "Brand SS",
+      "price": 199.99,
+      "details": "A powerful vacuum cleaner for home cleaning.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 46,
+      "name": "Ceiling Fan",
+      "brand": "Brand TT",
+      "price": 129.99,
+      "details": "An energy-efficient ceiling fan with remote control.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 47,
+      "name": "Blender",
+      "brand": "Brand UU",
+      "price": 49.99,
+      "details": "A high-speed blender for smoothies and more.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 48,
+      "name": "Coffee Maker",
+      "brand": "Brand VV",
+      "price": 89.99,
+      "details": "A programmable coffee maker for fresh coffee every morning.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 49,
+      "name": "Dishwasher",
+      "brand": "Brand WW",
+      "price": 599.99,
+      "details": "A modern dishwasher with multiple wash settings.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 50,
+      "name": "Air Purifier",
+      "brand": "Brand XX",
+      "price": 199.99,
+      "details": "An air purifier with HEPA filter for cleaner air.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}
