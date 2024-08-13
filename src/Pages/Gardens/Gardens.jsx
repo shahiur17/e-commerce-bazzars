@@ -1,9 +1,10 @@
+import HomeGardenproducts from "../../components/HomeGardenProduct/HomeGardenproducts";
 
 
 const Gardens = () => {
     return (
         <div>
-            this is home & Gardens
+            <HomeGardenproducts></HomeGardenproducts>
         </div>
     );
 };

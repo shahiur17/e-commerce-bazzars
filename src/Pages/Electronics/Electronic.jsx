@@ -1,9 +1,10 @@
+import ElectonicProductCards from "../../components/ElectronicProduct/ElectonicProductCards";
 
 
 const Electronic = () => {
     return (
         <div>
-            this is Electronics peges
+            <ElectonicProductCards></ElectonicProductCards>
         </div>
     );
 };
