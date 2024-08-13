@@ -1,9 +1,11 @@
+import FashionCards from "../../components/FashionCards/FashionCards";
+
 
 
 const Fashion = () => {
     return (
         <div>
-            this is fashion
+            <FashionCards></FashionCards>
         </div>
     );
 };
