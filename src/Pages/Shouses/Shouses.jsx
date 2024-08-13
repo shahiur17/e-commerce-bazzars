@@ -1,10 +1,11 @@
+import ShousProductCard from "../../components/ShousCards/ShousProductCard";
 
-import React from 'react';
+
 
 const Shouses = () => {
     return (
         <div>
-            this is Showesssssss
+            <ShousProductCard></ShousProductCard>
         </div>
     );
 };

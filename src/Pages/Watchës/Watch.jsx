@@ -1,9 +1,10 @@
+import WatchProductCarts from "../../components/WatchProductCard/WatchProductCarts";
 
 
 const Watch = () => {
     return (
         <div>
-            this is watch pagess
+            <WatchProductCarts></WatchProductCarts>
         </div>
     );
 };
