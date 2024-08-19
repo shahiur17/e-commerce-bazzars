@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import data from '../../data/products.json'; // Correct path to JSON
 
 const HomeCard = () => {
@@ -26,6 +27,10 @@ const HomeCard = () => {
                         </div>
                     ))}
                 </div>
+                <div className=' py-2 text-center'>
+                <Link to='/fashion'><button className="btn btn-outline">See More!</button></Link>
+
+                </div>
             </section>
 
             <section>
@@ -40,6 +45,10 @@ const HomeCard = () => {
                             <button className="btn btn-primary">Buy it now!</button>
                         </div>
                     ))}
+                </div>
+                <div className=' py-2 text-center'>
+                <Link to='/shous'><button className="btn btn-outline">See More!</button></Link>
+
                 </div>
             </section>
 
@@ -56,6 +65,10 @@ const HomeCard = () => {
                         </div>
                     ))}
                 </div>
+                <div className=' py-2 text-center'>
+                <Link to='/watch'><button className="btn btn-outline">See More!</button></Link>
+
+                </div>
             </section>
 
             <section>
@@ -71,6 +84,10 @@ const HomeCard = () => {
                         </div>
                     ))}
                 </div>
+                <div className=' py-2 text-center'>
+                <Link to='/electronic'><button className="btn btn-outline">See More!</button></Link>
+
+                </div>
             </section>
 
             <section>
@@ -85,6 +102,10 @@ const HomeCard = () => {
                             <button className="btn btn-primary">Buy it now!</button>
                         </div>
                     ))}
+                </div>
+                <div className=' py-2 text-center'>
+                <Link to='/garden'><button className="btn btn-outline">See More!</button></Link>
+
                 </div>
             </section>
         </div>

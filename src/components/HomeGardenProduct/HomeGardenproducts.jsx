@@ -20,6 +20,7 @@ const HomeGardenproducts = () => {
                         </div>
                     ))}
                 </div>
+                
             </section>
         </div>
     );
