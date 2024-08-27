@@ -140,8 +140,12 @@ const Navbars = () => {
                  
                 </a>
               </li>
-              <li><a>Settings</a></li>
-              <li><a>Logout</a></li>
+              
+              <li>
+              <Link to="/login" className="font-bold hover:text-blue-500">
+                Login
+              </Link>
+              </li>
             </ul>
           </div>
         </div>

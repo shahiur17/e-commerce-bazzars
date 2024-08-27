@@ -7,6 +7,8 @@ import Shouses from '../Pages/Shouses/Shouses';
 import Watch from '../Pages/Watchës/Watch';
 import Electronic from '../Pages/Electronics/Electronic';
 import Gardens from '../Pages/Gardens/Gardens';
+import Login from '../Pages/LoginPages/Login';
+import SingUp from '../Pages/LoginPages/SingUp';
 
 const myCreateRouter = createBrowserRouter([
     {
@@ -36,6 +38,14 @@ const myCreateRouter = createBrowserRouter([
             {
                 path:"/garden",
                 element: <Gardens></Gardens>
+            },
+            {
+                path:"/login",
+                element: <Login></Login>,
+            },
+            {
+                path:"/singup",
+                element: <SingUp></SingUp>,
             }
           
         ]
